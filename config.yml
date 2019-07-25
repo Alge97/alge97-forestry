@@ -31,3 +31,7 @@ netlify:
     version: latest
   identity:
     version: v1
+menu:
+  main:
+    name: All
+    weight: 3
